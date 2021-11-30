@@ -1,0 +1,8 @@
+classes= 3
+train  = /home/pjreddie/data/coco/trainvalno5k.txt
+valid  = coco_testdev
+#valid = data/coco_val_5k.list
+names = /app/service/src/application/services/person_tracker/CNN/data/coco.names
+backup = /home/pjreddie/backup/
+eval=coco
+
